@@ -68,7 +68,7 @@ export default function Footer() {
           </Stack>
 
           <Stack align={"flex-start"}>
-            <ListHeader>Information</ListHeader>
+            <ListHeader>Ajuda</ListHeader>
             <Link href={"#"}>Configurar Webcam</Link>
             <Link href={"#"}>Configurar Microfone</Link>
             <Link href={"#"}>Configurar Altofalante</Link>

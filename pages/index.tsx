@@ -157,7 +157,7 @@ const Home: NextPage = () => {
           {loading && (
             <Flex align="center" direction="column" py={20}>
               <Spinner size="xl" color="gray.900" mb={10} />
-              <Text color="gray.800">Awaiting access to devices</Text>
+              <Text color="gray.800">Aguardando dispositivos</Text>
             </Flex>
           )}
           <Flex hidden={loading} flexDirection={["column", "row"]}>
@@ -268,7 +268,7 @@ const Home: NextPage = () => {
                     });
                   }}
                 >
-                  Buy new webcam
+                  Comprar Webcam
                 </a>
               </Button>
             </Flex>
