@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ghost/
+Disallow: /p/
+Disallow: /email/
+Disallow: /_nextjs/
+Disallow: /api/
+
+Sitemap: https://www.testarwebcam.com.br/sitemap.xml
+
+
+Host: https://www.testarwebcam.com.br/
